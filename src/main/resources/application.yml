@@ -1,0 +1,4 @@
+spring-scheduled:
+  # rate can be a numerical milliseconds or ISO-8601 duration. The shorter form like 5s
+  # is not supported by fixedRateString parsing.
+  rate: PT5S
